@@ -6,6 +6,14 @@ Cui, X., Bray, S., & Reiss, A. (2010). Functional near infrared spectroscopy (NI
 signal improvement based on negative correlation between oxygenated and deoxygenated 
 hemoglobin dynamics. Neuroimage, 49(4).
 
+
+
+Cite this software
+--------------
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.16096.svg)](http://dx.doi.org/10.5281/zenodo.16096)
+
+
+
 Installation
 --------------
 
