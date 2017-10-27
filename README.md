@@ -26,12 +26,12 @@ Software info
 --------------
 * License GPL v3
 
-###Prerequisites:
+### Prerequisites:
 * MATLAB (Tested on 7.14.0.739 (R2012a) and 7.10.0.499 (R2010a))
 * or octave (Tested on 3.2.4)
 * OS	: Tested on GNU/Linux (but should be in general OS-independent)
 
-###Author information
+### Author information
 * AUTHOR	:  Andras Hartmann
 * CONTACT:  andras.hartmann@gmail.com
 
